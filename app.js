@@ -14,6 +14,3 @@ if (courseJoy === "yes") {
 } else {
   console.log("What went wrong with the course?!");
 }
-
-let username = prompt("What is your name");
-alert("Hi " + username);
